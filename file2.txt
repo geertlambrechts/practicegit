@@ -1,3 +1,4 @@
 this is the content of file2.txt for exercise C4
 added line in the master
+added some content to create a conflict
 
